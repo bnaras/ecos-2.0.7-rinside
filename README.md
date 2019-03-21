@@ -2,7 +2,8 @@ Embedded Conic Solver (ECOS)
 ====
 
 _The code here is meant only for reference, demonstrating use or
-RInside calls to generate test data. This is not the original source!_
+RInside calls to generate test data. This is not the site for the
+original source!_
 
 
 **Visit www.embotech.com/ECOS for detailed information on ECOS.**
